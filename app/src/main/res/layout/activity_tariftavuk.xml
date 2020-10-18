@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".tariftavuk"
+    android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:paddingTop="20dp">
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="200dp"
+            android:layout_gravity="center"
+            android:paddingTop="10dp"
+            android:src="@drawable/firindatavuk"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="FIRINDA TAVUK"
+            android:textSize="20dp"
+            android:fontFamily="sans-serif-black"
+            android:layout_gravity="center"
+            android:paddingTop="10dp"
+            android:textColor="@color/siyah"
+            />
+        <Button
+            android:layout_gravity="center"
+            android:id="@+id/button_uc"
+            android:layout_width="200dp"
+            android:layout_height="80dp"
+            android:textStyle="bold"
+            android:text="TARİF İÇİN TIKLAYIN"
+            android:background="@drawable/buttonsekil"
+            android:layout_marginTop="10dp"
+            />
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="200dp"
+            android:layout_gravity="center"
+            android:paddingTop="10dp"
+            android:src="@drawable/nugget"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="NUGGET"
+            android:textSize="20dp"
+            android:fontFamily="sans-serif-black"
+            android:layout_gravity="center"
+            android:paddingTop="10dp"
+            android:textColor="@color/siyah"
+            />
+        <Button
+            android:layout_gravity="center"
+            android:id="@+id/button_dort"
+            android:layout_width="200dp"
+            android:layout_height="80dp"
+            android:textStyle="bold"
+            android:text="TARİF İÇİN TIKLAYIN"
+            android:background="@drawable/buttonsekil"
+            android:layout_marginTop="10dp"
+            />
+
+    </LinearLayout>
+
+</LinearLayout>

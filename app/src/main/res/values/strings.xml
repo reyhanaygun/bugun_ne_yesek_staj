@@ -1,0 +1,595 @@
+<resources>
+    <string name="app_name">BUGÜN NE YESEK?</string>
+    <string name="malzemelerbir">1- 500 gram kontrfile \n2- 1 çay kaşığı deniz tuzu \n3- 2 çay kaşığıöğütülmüş top karabiber
+\n4- 1 tatlı kaşığıtaze biberiye \n5- 1 dişsarımsak \n6- 3 yemek kaşığı zeytinyağı \n7- 1 çay kaşığı tereyağı \n8- 1 çay kaşığıtaze biberiye</string>
+    <string name="ettarifibir">Taze biberiyi ince bir biçimde kıyın.
+
+Sarımsağın kabuklarını soyun. Rende yardımıyla en ince biçimde rendeleyin.
+
+Bir karıştırma kasesinin içine tüm malzemelerini aktarın.
+
+Etinizi bu karışımın içine koyun ve tüm iyice harmanlayın.
+
+Üzerini streç film ile kapatıp en az 5 saat dolapta dinlendirin.
+
+Demir döküm tavanızı ısıtın.
+
+İyice ısındığında marine ettiğiniz eti arkalı önlü mühürleyin.
+
+Mühürleme esnasında tereyağı ve taze biberiyi ilave ederek aromalandırın.
+
+İyi pişmiş istiyorsanız her iki tarafını da ortalama 4, toplam 8 dakika pişirdikten sonra ocaktan alın ve servis edin.</string>
+    <string name="malzemeleriki">1- 600 gram orta yağlı kıyma
+\n2- 1 dilim bayat ekmek içi
+\n3- 1 adet küçük boy soğan
+\n4- 1 adet yumurta
+\n5- 1 çay kaşığı kimyon
+\n6- 1/2 çay kaşığı tuz
+\n7- 1/2 çay kaşığı karabiber</string>
+    <string name="ettarifiiki">Orta yağlı 600 gram kıymayı karıştırma kabına alın. İçerisinde 1 yumurta, 1 adet rendelenmiş kuru soğan, 1 dilim bayat ekmek içi, 1 çay kaşığı kimyon, yarım çay kaşığı tuz ve karabiberi katın.
+    Tüm malzemelerini eklediğiniz köfte harcını kıvam alıp, toparlanana kadar yoğurun ve üzerine streç film kapatıp en az yarım saat buzdolabında dinlendirin.
+        Köfte harcından ceviz büyüklüğünde parçalar kopartın. Su ile ıslattığınız ellerinizle köftelere istediğiniz şekli verin. Köfteleri yağladığınız kızgın tavaya dizin.
+        Ters yüz ederek pişirmeye başlayın. Tüm köfteler pişirilene kadar bu işleme devam edin. Tarifimiz hazır.
+    </string>
+    <string name="malzemeleruc">1- 1 adet bütün tavuk
+\n Marine için:
+\n2- 1 adet soğan
+\n3- 2 çorba kaşığı yoğurt
+\n4- 2 çorba kaşığı salça
+\n5- 1 diş dövülmüş sarmısak
+\n6- 2 çorba kaşığı nar ekşisi
+\n7- 1/2 limonun suyu
+\n8- Tuz, karabiber, kekik, nane, pulbiber, sumak, toz kırmızıbiber, kimyon
+\n Servis için:
+\n9- 6 adet köy biberi
+\n10- 600 gram küçük boy taze patates
+\n11- 12 adet kiraz domates
+\n12- 1/2 çay bardağı zeytinyağı
+\n13- Tuz, karabiber, pulbiber, kekik, toz kırmızıbiber</string>
+    <string name="tavuktarifibir">Marine için soğanı rendeleyip suyunu sıkın ve bir kaba alın. Üzerine yoğurt, salça, sarmısak,
+        nar ekşisi, limon suyu, baharat ve tuz ekleyin. Tavuğun her tarafına iyice sürün ve bir buzdolabı poşetine koyun. Bu şekilde bir gece buzdolabında bekletin. Diğer taraftan servis için soyulmuş patates, domates ve biberlerin üzerine zeytinyağı gezdirin. Tuz ve baharat ekleyip karıştırın. Marine edilmiş tavuğu poşetten çıkarıp bir fırın kabına alın. Etrafına sebzeleri yerleştirin. Kabın üzerini önce pişirme kağıdı sonra alüminyum folyo ile kapatın. Önceden ısıtılmış 180 derece fırında 1 saat pişirin. Kabın üzerini açıp fırın ısısını 170 dereceye düşürün ve 15-20 dakika daha pişirin.</string>
+    <string name="malzemelerdort">1- 600 gram fileto tavuk göğsü
+\n2- 1/2 çay kaşığı tuz
+\n3- 1/2 çay kaşığı taze çekilmiş tane karabiber
+\nTavukları kaplamak için:
+\n4- 5 yemek kaşığı un
+\n5- 2 adet yumurta
+\n6- 1 yemek kaşığı süzme yoğurt ya da krema
+\n7- 3 yemek kaşığı mısır nişastası
+\n8- 5 yemek kaşığıgaleta unu
+\n Tavukları kızartmak için:
+\n9- 1/2 su bardağı ayçiçek yağı</string>
+    <string name="tavuktarifiiki">Yağlı ve derili kısımları alınmış fileto tavuk göğüslerini iri kare parçalar halinde kesin. Tuz ve taze çekilmiş tane karabiber ilavesiyle lezzetlendirin.
+
+Un ve mısır nişastasını harmanlayıp düz bir tabağa alın. Yumurtaları, derin bir kasede süzme yoğurt ya da krema ilavesiyle çırpın. Elenmiş ince yapıdaki galeta ununu ayrı bir tabağa aktarın.
+
+Doğranmış tavuk göğüslerini sırasıyla; mısır nişastası-un karışımına, çırpılmış yumurta ve galeta ununa bulayın.
+
+Ayçiçek yağını geniş tabanlı bir tavada kızdırın. Tavuk göğüslerini, kısık ateşte arkalı önlü ters çevirerek renk alana kadar kızartın.
+
+Kağıt havlu üzerinde kısa bir süre dinlendirdiğiniz nuggetları arzuya göre baharat, kızarmış patates ve çeşitli soslar eşliğinde sıcak olarak sevdiklerinizle paylaşın.</string>
+    <string name="malzemelerbes">1- 4 adet somon
+\n2- 1 çay kaşığı tuz
+\n3- 1 çay kaşığı karabiber
+\n Pesto sos için:
+\n4- 1/2 demet maydanoz
+\n5- 30 gram ceviz içi
+\n6- 100 gram kars gravyer peyniri(rendelenmiş)
+\n7- 1 diş sarımsak
+\n8- 1 çay kaşığı karabiber
+\n9- 1 çay kaşığı tuz
+\n10- 4 yemek kaşığı zeytinyağı</string>
+    <string name="baliktarifibir">Pesto sos için:
+\nCevizleri tavada 2-3 dakika kavurun.
+
+Maydanozu saplarından ayırın.
+
+Sarımsağın kabuklarını soyun.
+
+Rendelenmiş Kars gravyerini, sarımsak, maydanoz ve kavrulmuş cevizi rondonun içine aktarın.
+
+Üzerine karabiber ilave edin.  Bir miktar zeytinyağı da ekleyin.
+
+Rondonuzu çalıştırın,kalan zeytinyağını da azar azar ilave ederek kıvam almasını sağlayın.
+
+Tadına bakarak tuz ilave edin ve son olarak tekrar karıştırın.
+
+\n Pişirme aşaması için:
+Somona arkalı önlü tuz-karabiber serpin.
+
+180 derecelik fırında 5-6 dakika kadar pişirin.
+
+Çıkarıp üzerine pesto sos sürerek 10-15 dakika daha pişirin. </string>
+    <string name="malzemeleralti">1- 2 adet orta boy palamut balığı(isteğe göre)
+\n2- 6 yemek kaşığı zeytinyağı
+\n3- 1 adet orta boy kuru soğan
+\n4- 1 yemek kaşığı taze sıkılmış limon suyu
+\n5- 1 dal biberiye
+\n6- 1/2 tatlı kaşığıtuz
+\n7- 1/2 çay kaşığı taze çekilmiş tane karabiber</string>
+    <string name="baliktarifiiki">
+        İç kısımlarını temizleyip bol suda dikkatli bir şekilde yıkadığınız balıkları kağıt havlu yardımıyla kurulayın.
+
+Balıklara tat vermesi için rendenin ince kısmıyla rendelediğiniz kuru soğanın suyunu sıkın.
+
+Derin bir kaba aktardığınız soğan suyunu; taze sıkılmış limon suyu, zeytinyağı, biberiye ve taze çekilmiş tane karabiberle karıştırın.
+
+Palamutları karışımın içine alıp 30 dakika kadar bekletin. Sosu içine çekmeleri için aralarda ovun.
+
+Kısa süre marine ettiğiniz balıkları karışımdan alıp karın ve üst kısımlarını tuzla ovduktan sonra yağlı kağıt serili fırın tepsisine yerleştirin.
+
+Önceden ısıtılmış 200 derece fırında, üzerleri kızarıp renk alana kadar yaklaşık 40-45 dakika pişirin. Arzuya göre limon dilimleri eşliğinde servis edin.
+    </string>
+    <string name="malzemeleryedi">
+       1- 1 adet patates
+\n2- 1 yemek kaşığı süt
+\n3- 1 yemek kaşığı tereyağı
+\n4- 4 adet mezgit fileto
+\n5- 1 tatlı kaşığı tuz
+\n6- 1 çay kaşığı karabiber
+\n7- 3 adet yumurta sarısı
+\n8- 1 su bardağı galeta unu
+\n9- 1/2 çay kaşığı kimyon
+\n10- 3 su bardağı kızartma yağı
+    </string>
+    <string name="baliktarifiuc">Patateslerin kabuğunu soyun ve 1 tatlı kaşığı tuzla beraber haşlayın.
+
+Kullanacağınız balığı da 5-6 dakika kaynar suyun içinde haşlayın. Eğer dağılırsa süzgeç yardımıyla süzün.
+
+Haşlanan patatesleri bir kaba alın ve çatalla püre kıvamına getirin.
+
+Patatesler soğumadan tereyağını ilave edin ve patatese yedirin. En son sütü ilave edin ve soğumaya bırakın.
+
+Baharatları ilave edin. Haşlanan balıkları patateslerle harmanlayarak şekil verilebilir kıvama getirin.
+
+İki bıçak yardımıyla kenarlarını düzeltin ve karışıma şekil verin.
+
+Buzdolabında 30 dakika dinlendirin.
+
+Kızartma yağını iyice kızdırın.
+
+Dinlenen kroketleri önce çırpılmış yumurta sarılarına daha sonra da galeta ununa bulayıp kızartın.
+
+Fazla yağını süzdürün ve servis edin. Afiyet olsun.</string>
+    <string name="malzemelersekiz">1- 1 kilogram taze patates
+\n2- 1 kilogram havuç
+\n3- 500 gram brokoli
+\n4- 5 diş sarımsak
+\n5- 5 dal taze kekik
+\n6- 1 çay bardağı zeytinyağı
+\n7- 100 gram badem
+\n8- 2 tatlı kaşığı tuz
+\n9- 1 çay kaşığı karabiber
+\n10- 4 tatlı kaşığı tereyağı
+\n11- 4 tatlı kaşığı nar</string>
+    <string name="sebzetarifibir">Havuç ve patatesleri iri parçalar halinde doğrayın. Sebzeleri ince doğranmış sarımsak, zeytinyağı, taze kekik ve baharatlar ile harmanlayıp 220 derecelik fırına atın.
+
+Patatesler yumuşamaya başlayınca brokolileri de ekleyin.
+
+Bir tavada tereyağını eritip bademleri kavurun. Fırından çıkan sebzelere kavrulmuş bademleri ve narları ekleyip servis edin.</string>
+    <string name="malzemelerdokuz">1- 1 adet patates
+\n2- 3 çorba kaşığı mayonez
+\n3- 1 tatlı kaşığı hardal
+\n4- Yarım tatlı kaşığı hardal
+\n5- 1 tatlı kaşığı zeytinyağı
+\n6- 1 dal taze soğan
+\n7- 1 tutam zerdeçal
+\n8- Yarım çay kaşığı tuz</string>
+    <string name="salatatarifibir">1 adet patatesi iri küpler halinde doğrayın. 2-3 cm’lik küpler olması yeterli olacaktır.
+Küçük bir düdüklü tencereye üzerini geçecek kadar soğuk su ve 1 tutam tuz ile birlikte yüksek basınç ayarında koyun.
+Patatesleri doğradığınız için yeterli basınç oluşup düdük kilitlendikten sonra 1 dakika kadar pişirmeniz yeterli olacaktır. Daha fazla pişirdiğinizde püre gibi ezilecektir.
+Geniş bir kasede 3 çorba kaşığı mayonez, 1 tatlı kaşığı hardal, yarım tatlı kaşığı delizia hardal, 1 tatlı kaşığı zeytinyağı, yarım çay kaşığı tuz ve 1 tutam zerdeçalı karıştırın. İçine 1 dal taze soğanı ince ince kıyın.
+Pişen patatesleri süzüp ilk harı geçince sosla karıştırınca patates salatanız hazır.</string>
+    <string name="malzemeleron">Kruton için
+\n1- 4 dilim bayat tost ekmeği
+\n2- 3 çorba kaşığı zeytinyağı
+\n3- 3 diş sarımsak
+Sos için,
+\n4- 3 diş sarımsak
+\n5- 2,5 adet konserve sardalya
+\n6- 4 çorba kaşığı mayonez
+\n7- 1 dolu tatlı kaşığı hardal
+\n8- 1 limonun suyu
+\n9- 4 çorba kaşığı rende parmesan
+\n10- 1 tatlı kaşığı sirke
+\n11- 1 tatlı kaşığı pekmez
+\n12- 1 çay kaşığı tuz
+\n13- 1 çay kaşığı karabiber
+Salata için,
+\n- 1 adet marul
+\n- Kruton
+\n- Sezar Sos
+\n- Rende parmesan</string>
+    <string name="salatatarifiiki">Krutonlar için, 3 diş sarımsağı ince ince kıyın. Geniş bir tavada 3 çorba kaşığı zeytinyağını ısıtıp sarımsakları ekleyin. Kısık orta ateşte sarımsaklar kararmadan kızarana kadar kavurun. Böylece sarımsak yağa lezzetini verecek.
+ Sarımsaklar kızardıktan sonra tavadan alın ve küp küp doğradığınız 4 dilim tost ekmeğini ekleyin. Tüm ekmekler yağa bulandıktan sonra altını kısıp iyice kızarıp renk alana kadar kavurun. Üzerine ağız tadınıza göre tuz ve karabiber ekleyin.
+ Sezar salata sosu için, 2,5 adet konserve sardalyanın kılçıklarını çıkartıp incecik kıyın ve geniş bir kaseye koyun.
+Üzerine, 4 çorba kaşığı mayonez, 1 limonun suyu, 1 dolu tatlı kaşığı hardal, 4 çorba kaşığı rende parmesan, 3 diş rende sarımsak, birer tatlı kaşığı sirke ve pekmez, birer çay kaşığı tuz ve karabiber ekleyip karıştırın. Tadına mutlaka bakmayı ihmal etmeyin.
+Gelelim salataya, 1 marulun yapraklarını yıkayıp kurutun. Elinizle kabaca 3-4 parçaya bölerek marul yapraklarını geniş bir kaseye koyun. Üzerine hazırladığınız sosun yaklaşık yarısını dökün. Tüm yapraklar sostan nasibini alana kadar karıştırın.
+ Servis edeceğiniz tabağa soslu marulları koyup üzerine dilediğiniz kadar kruton koyun ve son olarak parmesan da rendeleyince sezar salatanız hazır ve nazır.</string>
+    <string name="malzemeleronbir">1- 100 gr tavuk göğsü
+
+\n2- Yarım marul
+
+\n3- 1 çay kaşığı tuz
+
+\n4- 1 çay kaşığı kara biber
+
+\n5- 1 çay kaşığı pul biber
+
+\n6- 1 çay kaşığı toz sarımsak
+
+\n7- 1 çay kaşığı kimyon
+
+\n8- 2 dal taze kekik
+
+\n- Sosu için,
+
+\n9- 5 tatlı kaşığı yoğurt
+
+\n10- 2-3 çorba kaşığı turşu suyu
+
+\n11- Yarım çay kaşığı pul biber
+
+\n12- 5 adet bamya turşusu
+
+\n13- yarım çay kaşığı kara biber</string>
+    <string name="salatatarifiuc"> Uzun ince şeritler halinde doğradığınız 100 gr tavuğun üzerine birer çay kaşığı tuz, karabiber, pul biber, toz sarımsak ve kimyon  koyup karıştırın.
+   Kızdırdığınız döküm tavada pişirin
+   Sonra üzerine 2 dal taze kekiğin yapraklarını serpin ve kenara alın.
+   Bir kavanozun içerisine yarım bağ marulu gelişi güzel şekilde koparıp atın
+   Soğumuş tavukları üzerine yerleştirip kapağını kapatın.
+   Sosu için 5 tatlı kaşığı yoğurdu, 2-3 çorba kaşığı turşu suyunu, doğradığınız 5 adet bamya turşusunu,  yarımşar çay kaşığı pul biber ve karabiberi bir kavanoza koyup karıştırınca sosu da hazır.</string>
+    <string name="malzemeleroniki">Hamuru İçin;
+
+\n1- 1 çay bardağı sıcağa yakın ılık süt
+\n2- 2 yemek kaşığı toz şeker
+\n3- 1 paket instant kuru maya
+\n4- Yarım çay bardağı ılık su
+\n5- 2 yemek kaşığı sıvı yağ
+\n6- Yarım çay kaşığı tuz
+\n7- 1 adet yumurta
+\n8- 2,5-3 su bardağı kadar un (kontrollü ekleyin)
+\n- Üzeri İçin;
+
+\n9- 80 gr (1 paket) eritilmiş çikolata
+\n10- Renkli pasta süsleri ya da beyaz çikolata, Hindistan cevizi vs.
+\n- Kızartmak İçin;
+
+\n11- Sıvı yağ</string>
+    <string name="tatlibir">Sütü ocağa alıp, sıcağa yakın olacak şekilde ısıtalım. Ilık olacak yani mutlaka. Üzerine maya ve şekeri ekleyelim. Şöyle bir karıştıralım ve üzerini bir kapla kapatıp, 5-6 dk aktifleşmesini bekleyelim.
+Üzerine sıvı yağ, tuz, su, yumurta ve yavaş yavaş un ekleyerek, ele yapışmayan bir hamur elde edelim.
+Hamurdan ceviz büyüklüğünde parçalar kopartıp, yuvarlayalım. Bir tepsiye aralıklarla dizelim. Üzerine temiz bir havlu örtüp, sıcak bir ortamda mayalanmaya bırakalım.
+Yarım saat kadar mayalandıktan sonra, ortalarını yuvarlak bir aparatla keselim.
+Hazırladığımız hamurları, kızgın yağda arkalı önlü güzelce kızartalım.
+İçinden çıkardığımız yuvarlakları da kızartalım.
+Kızarttığımız hamurları, kağıt havlu koyduğumuz bir tabağa alalım.
+Çikolatayı benmari usulü eritelim. Ilıyan donutları çikolataya batırıp, üzerini istediğiniz şekilde süsleyebilirsiniz.</string>
+    <string name="malzemeleronuc">Kreması İçin:
+\n1- 1 yemek kaşığı nişasta
+\n2- 3 adet yumurta
+\n3- 1 adet limon kabuğu rendesi(ve suyu)
+\n4- 1 su bardağı şeker
+\n5- 1 kutu sıvı krema
+\n6- 600 gram labne peyniri
+\n7- 1 paket vanilya
+\n- Tabanı İçin:
+\n8- 2 paket tam buğdaylı bisküvi
+\n9- 125 gram eritilmiş tereyağı
+\n- Sosu İçin:
+\n10- 1/2 su bardağışeker
+\n11- 2 yemek kaşığımısır nişastası
+\n12- 1 su bardağısu
+\n13- 1 paketvanilya
+\n14- 300 gramframbuaz(donmuş ya da taze)</string>
+    <string name="tatliiki">Kelepçeli kalıbın kenar duvarlarını kaplamak için yağlı kağıtları kesin. Tabanı ve kenarları margarin sürerek yağlı kağıt ile kaplayın.
+
+
+Daha sonra kalıbın alt tabanını su geçmemesini sağlamak için alüminyum folyo ile kaplayın.
+
+
+Frambuzları yarım su bardağı şeker ve bir bardak su ile karıştırıp buzdolabında beklemeye alın.
+
+
+Pasta tabanı için 2 paket tam buğday unlu bisküviyi rondodan geçirin.
+
+
+125 gram eritilmiş tereyağı üzerine ekleyip rondodan, bisküvilerle birlikte geçirin.
+
+
+Hazırlamış olduğunuz kalıba bisküvili karışımı bir spatula ya da bardak ile iyice bastırarak yayın.
+
+
+Pürüzsüz bir yüzey yaratmaya çalışın. Dinlenmesi için pasta tabanını kalıbıyla birlikte buzdolabında bekletin.
+
+
+Cheesecake kreması için; 3 yumurta, 600 gram labne peynir, 1 su bardağı toz şeker, 1 kutu sıvı krema, 1 limon kabuğu rendesi ve suyu, 1 paket vanilya, 1 yemek kaşığı dolusu nişastayı bir kaba alın.
+
+
+Mikserle pürüzsüz hale gelinceye kadar karıştırın.
+
+Buzdolabından çıkardığınız kalıba kremalı karışımı dökün.
+
+
+Su ile doldurduğunuz derin bir fırın tepsisinin içine kalıbı yerleştirerek 25 dakika 180 derecede; 25-30 dakika da 150 derecede pişirin.
+
+
+Daha sonra fırını kapatıp bir saat de fırın içinde bekletin. Bu şekilde cheesecake çatlamadan pişecektir.
+
+
+Cheesecake dışarıda soğurken farmbuazlı sosu hazırlamaya başlayın. Dolaptan çıkardığınız frambuazları bir blender ile ezin.
+
+Bir çay bardağı su ile 2 yemek kaşığı nişastayı bir kasede açın.
+
+
+Tencereye ekleyin. Kısık ateşte karıştırarak pişirin.
+
+
+Sosunuz yoğun bir kıvama gelince içine bir paket vanilya ekleyip, karıştırın ve soğumaya bırakın.
+
+
+Cheesecake ve frambuaz sosu soğuyunca, cheesecake’in üzerine sosunu döküp buzdolabında 1 gece beklemeye alın.
+
+
+Buzdolabından çıkardığınız cheesecake’i kalıbından çıkarıp taze ya da donmuş frambuazla ve nane yapraklarıyla süsleyerek servis edebilirsiniz. Afiyet olsun.</string>
+    <string name="malzemelerondort">1- 4 adet yumurta(oda sıcaklığında)
+\n2- 1,5 su bardağı şeker
+\n3- 500 gram krem peynir(oda sıcaklığında)
+\n4- 2 su bardağı krema(400ml., oda sıcaklığında)
+\n5- 1 paket vanilin
+\n6- 2 yemek kaşığıun</string>
+    <string name="tatliuc">Toz şeker ve krem peyniri büyük bir karıştırma kasesinin içerisine alın. Mikser yardımıyla şeker güzelce eriyene kadar 5-6 dakika kadar çırpın.
+
+Ardından ilk yumurtayı ilave edin ve güzelce çırpmaya devam edin. Her yumurta için bu işlemi uygulayın. Bir yumurta ekleyin, güzelce çırpın. Ardından diğerlerini de tek tek ilave edip karışıma yedirin.
+
+Yumurtalarınızı da karışıma yedirdikten sonra kremayı ekleyerek güzelce karıştırın. Dilerseniz bu aşamada vanilya da ilave edebilirsiniz.
+
+Son olarak unu da ekleyerek güzelce çırpın. Orta boy bir kelepçeli kek kalıbını yağlayın. Pişirme kağıdı kalıba kenarlardan hafif taşacak şekilde yerleştirin ve hazırladığınız karışımı içerisine aktarın.
+
+190 derecede önceden ısıtılmış fırında 45 dakika ya da 1 saat kadar pişirin. Bu süre fırınınızın performansına göre değişkenlik gösterebilir. Pişince fırının kapağı yarı açık şekilde yaklaşık yarım saat dinlendirin.
+
+Ardından çıkarıp oda sıcaklığında soğumaya bırakın. Oda sıcaklığında dinlendirdikten sonra en az 8 saat, tercihen 1 gün dinlendirin. Yağlı kağıdını da çıkarıp dilimleyerek servis edin. Üzerine çikolata sosu ya da meyve sosu da gezdirebilirsiniz.</string>
+    <string name="malzemeleronbes">1- 125 gram bitter çikolata
+\n2- 125 mililitre süt
+\n3- 3 adet yumurta(sarıları ve beyazları ayrılmış)
+\n4- 2 yemek kaşığı tereyağı
+\n5- 1,5 yemek kaşığı un
+\n6- 1/4 çay kaşığı tuz
+\n7- 2 yemek kaşığı toz şeker
+\n- Pişirme kaplarını yağlamak için:
+\n8- 1 yemek kaşığı tereyağı
+\n9- 1 yemek kaşığı kakao
+\n- Servisi için:
+\n10- 1 yemek kaşığı pudra şekeri</string>
+    <string name="tatlidort">125 mililitre sütü  bir sos tenceresine alın ve kaynama noktasına gelinceye kadar ısıtın.
+
+
+İçerisine çikolatayı ilave edin. Çikolata eridikten sonra ocaktan alın.
+
+
+Ayrı bir sos tenceresinde 2 yemek kaşığı tereyağını eritin.
+
+
+Üzerine 1,5 yemek kaşığı unu ilave ederek, kokusu çıkana kadar kavurun.
+
+
+Unun kokusu çıktıktan sonra çikolatalı süt karışımının içerisine ilave edin ve 2 yemek kaşığı toz şekeri ilave ederek sürekli olarak karıştırın.
+
+
+3 adet yumurta sarılarını da ilave edin, 2 dakika daha karıştırdıktan sonra ocaktan alın ve soğumaya bırakın.
+
+
+Derin bir kasede 3 adet  yumurta beyazlarını bir çimdik tuz ile birlikte kaseyi ters çevirdiğinizde akmayacak kıvama gelinceye kadar çırpın.
+
+
+Soğumuş olan çikolatalı karışım ile köpük haline gelmiş yumurta aklarını birleştirin ve spatula yardımıyla karıştırın.
+
+
+Yağlanmış ve kakao ile kaplanmış sufle kaplarına bir parmak boşluk kalacak şekilde harcı bölüştürün ve önceden ısıtılmış 200 derece fırında 10 dakika pişirin.
+
+Fırından çıkar çıkmaz üzerine pudra şekeri serpiştirip servis edin, afiyet olsun!</string>
+
+    <string name="malzemeleronalti">1- 6 dilim bayat ekmek
+
+\n2- 5 yumurta
+
+\n3- 1 çorba kaşığı + 1,5 çay kaşığı tereyağı
+
+\n4- 1 çorba kaşığı zeytinyağı
+
+\n5- 3 çorba kaşığı süt
+
+\n6- 1 tutam tuz
+
+\n7- 1 tutam karabiber
+
+\n8- 1 tutam pul biber
+
+\n9- 2 dal taze soğan</string>
+    <string name="kahvaltibir"> Geniş bir tavayı ocağa koyup altını açın. İçine 1 çorba kaşığı tereyağı koyun ve eritin.
+ 2 yumurtayı bir kaseye kırın. Yumurtaları güzelce çırpıp içine 3 çorba kaşığı süt, birer tutam tuz, karabiber ve pul biber ekleyip tüm malzemeler bütünleşene kadar çırpın.
+ Tavada eriyen tereyağını çok ısınmadan yumurtalı karışıma çırparak dökün.
+ 2 dal taze soğanın beyaz kısımlarını ince ince , yeşil kısımlarını daha kalınca doğrayın. Birazını üstüne serpmek için ayırıp kalanını karışıma ekleyin.
+Kurumuş 6 dilim ekmeği teker teker yumurtalı harca bulayın. İçinde yaklaşık 30 saniye bekletin ki iyice çekebilsinler.
+Isınan tavaya yumurtayı çekmiş ekmekleri yerleştirin. Soğanlarının da mutlaka ekmeğin üzerinde olmasına dikkat edin.
+ Orta yüksek ateşte bir tarafları güzelce kahverengileşince çevirin. 1-2 dakika içine olacaklardır.
+ Yumurtalı harç kalırsa mutlaka kalanını ekmeklerin üzerlerine dökün.
+ Olmuş yumurtalı ekmekleri kenara alıp tavanın altını kapatın. 1 iri diş sarımsağı ikiye kesip tavanın tabanında sürterek gezdirin.
+ 1 çorba kaşığı zeytinyağı ve 1 çay kaşığı tereyağını tavaya koyun. Sarımsakları tavadan alıp yap iyice ısınınca 3 tane yumurtayı tavaya kırın.
+ Tavanın altını kısıp yaklaşık 2- 2,5 dakika pişirin.
+Son 30 saniyesinde yumurtaların beyazlarının üzerine yarım çay kaşığı kadar tereyağı sürün. Beyazının üzerine ağız tadınıza göre tuz serpin.
+ Pişen yumurtaları spatula ile alıp pişen yumurtalı ekmeklerin üzerine yerleştirin.
+ Ayırdığınız taze soğanları, biraz da pul biber serpince ziyafet tadında çifte yumurtalı ekmeğiniz afiyetle yemeniz için sizi bekliyor.</string>
+    <string name="malzemeleronyedi">1- 3 adet yumurta
+\n2- 1 adetorta boy haşlanmış patates
+\n3- 2 yemek kaşığısüt
+\n4- 1 adet büyük boy domates
+\n5- 1 adet orta boy yeşil biber
+\n6- 1 adet orta boy kırmızı biber
+\n7- 3 adet mantar
+\n8- 1/2 çay kaşığı tuz
+\n9- 1/2 çay kaşığı taze çekilmiş tane karabiber
+\n10- 1/4 demet çok küçük doğranmış maydanoz
+\n11- 1/2 su bardağı rendelenmiş kaşar peyniri
+\n12- 1 tatlı kaşığı zeytinyağı</string>
+    <string name="kahvaltiiki">Arzuya göre kabuğunu soyduğunuz domatesi iri küpler halinde doğrayın.
+
+Ortadan ikiye kesip çekirdeklerini çıkardığınız yeşil ve kırmızı biberleri domateslerle uyumlu olacak şekilde kesin.
+
+Nemli bir bezle üzerlerini sildiğiniz mantarları ince ince kesin.
+
+Zeytinyağını orta boy bir yumurta tavasında kızdırın. Doğramış olduğunuz sebzeleri, yüksek ateşte kısa süre soteleyin. Düz bir tabağa aldığınız sote sebze karışımını kısa bir süre bekletin.
+
+Omlet hazırlığı için; haşlanmış patatesi rendenin kalın tarafıyla rendeleyin.
+
+Yumurta, süt, tuz ve karabiberi, rendelenmiş patates ilavesiyle derin bir kasede karıştırın.
+
+Sebzeleri sotelediğiniz tavayı yeniden ocağa alın. Çırpılmış yumurta karışımını tavaya aktarın.
+
+Kısık ateşte pişmeye başlayan omletin orta kısmına sote sebze karışımı ve rendelenmiş kaşar peynirini serpiştirin. Küçük parçalar halinde doğranmış maydanozu ekleyin.
+
+Geniş bir spatula yardımıyla ortadan ikiye katladığınız sebzeli omleti, kısa bir süre daha kısık ateşte pişirmeye devam edin.
+
+Servis tabağına aldığınız içi dolgulu omleti, kızarmış ekmek dilimleri eşliğinde bekletmeden servis edin.</string>
+    <string name="malzemeleronsekiz">1- 2 adet yumurta
+\n2- 1/2 su bardağı toz şeker
+\n3- 2 su bardağı un
+\n4- 1,5 su bardağı süt
+\n5- 2 yemek kaşığı ayçiçek yağı
+\n6- 1 paket kabartma tozu
+\n7- 1 paket vanilin
+\n8- 1 tutam tuz</string>
+    <string name="kahvaltiuc">Derin bir karıştırma kabında 2 yumurta ve yarım su bardağı şekeri ekleyin.
+        Şeker eriyene ve karışım krema kıvamını alana kadar çırpın. Hazırladığımız karışımın üzerine, 2 yemek kaşığı sıvı yağ ve 1,5 su bardağı sütü de koyup tekrar çırpın. 2 su bardağı un, 1 paket kabartma tozu, 1 paket vanilin ve bir tutam tuzu da eleyerek karışımın içerisine ekleyin. Pürüzsüz bir kıvam alana kadar çırpın. İlk pancake pişirmek için; krep tavasını ayçiçek yağı ile yağlayın. Kızdırdığınız tavaya küçük bir kepçe ya da bir kahve fincanı kadar pancake harcını koyun. Ocağın altını kısın. Pancake, üzeri göz göz olana kadar pişirin. Bir spatula yardımıyla çevirdiğiniz pancakenin diğer tarafını da aynı şekilde pişirin. Krep tavasını arada yağlayarak pancake harcı bitene kadar aynı işlemi tekrarlayın. Pancakeler hazır. Damak zevkinize göre istediğiniz şekilde tüketebilirsiniz.</string>
+    <string name="malzemelerondokuz">1- 2 adet yumurta
+
+\n2- 1,5 su bardağı un
+
+\n3- 1,5 su bardağı süt
+
+\n4- Yarım çay kaşığı tuz
+
+\n5- Sıvı yağ (pişirmek için)</string>
+    <string name="kahvaltidort">Krep tarifi hazırlamak için geniş bir kapta yumurtaları iyice çırpın, ardından süt ve suyu ekleyip çırpmaya devam edin. Elenmiş unu yavaşça karışıma ekleyin ve çırpmaya devam edin. Kek hamurundan daha akışkan kıvamda bir karışım elde edeceğiz. Krep tavasına veya teflon tavaya peçeteye bandırdığımız yağı sürüyoruz. Önceden kızdırdığımız tavaya karışımdan 1 kepçe döküyoruz. Tavanın kenarına döktüğümüz karışımı saat yönünde çevirerek tüm tavaya yayın, bu yöntem krepinizin daha ince olmasını sağlayacaktır.
+        Krepin her iki tarafını da orta ateşte güzelce kızartın. Krep tarifimiz hazır. Afiyet olsun…</string>
+
+    <string name="malzemeleryirmi">1- 1/2 adet orta boy karpuz (dilimlenmiş, kabukları çıkartılmış)
+\n2- 3 adet orta boy limon
+\n3- 1,5 su bardağı oğuk su
+\n4- 3 yemek kaşığı toz şeker (arzuya göre esmer şeker)</string>
+    <string name="icecekbir">Kabuğunu kesip dilimlere ayırdığınız karpuz çekirdeklerini tek tek ayıklayın.
+
+Bol suda yıkayıp üzerlerini kuruladığınız limon kabuklarını rendenin iri tarafıyla rendeleyin.
+
+Ortadan ikiye kestiğiniz limonların suyunu sıkın.
+
+Çekirdekleri ayıklanmış karpuzları küçük parçalar halinde blendera alın. Taze sıkılmış limon suyu, rendelenmiş limon kabuğu, soğuk su ve toz şeker ekledikten sonra blenderı çalıştırın.
+
+Kısa sürede hazır olan karışımı bir süzgeç yardımıyla süzün. Posa kısmını kullanmayın. Hazır olan karpuzlu limonatayı soğuttuktan sonra sevdiklerinizle paylaşın.</string>
+    <string name="malzemeleryirmibir">1- 500 gram çilek
+\n2- 3 adet limon
+\n3- 5 yemek kaşığı toz şeker
+\n4- 5 su bardağı su
+\n5- 5 adet nane yaprağı</string>
+    <string name="icecekiki">Bol suda yıkayıp kağıt havlu yardımıyla kuruladığınız çileklerin sap kısımlarını kesin.
+
+Limonların kabuklarını rendenin ince kısmıyla aldıktan sonra sularını sıkın.
+
+Küçük parçalara böldüğünüz çilekleri, taze sıkılmış limon suyu ilavesiyle mutfak robotuna alın.
+
+1 su bardağı suda erittiğiniz toz şeker ve rendelenmiş limon kabuklarını katıp mutfak robotunda püre haline getirin.
+
+Kalan suyu ilave edip karıştırma işlemini birkaç saniye daha sürdürdükten sonra limonata karışımını sürahiye alın.
+
+Buzdolabında soğuttuktan sonra arzuya göre nane yaprakları ve buz küpleri eşliğinde servis edin.</string>
+    <string name="malzemeleryirmiiki">1- 1/2 demet nane
+\n2- 2 adet limon
+\n3- 5 su bardağı su
+\n4- 4 yemek kaşığı şeker
+\n5- 2 parça buz</string>
+    <string name="icecekuc">Yarım demet yeşil nanenin yapraklarını bir kasenin içine ayıklayın.
+
+2 adet limonun kabuklarını soyun ve nane yapraklarıyla aynı kaseye koyun.
+
+Kasenin içerisine şekeri ilave edin ve yeşil nane, limon ve şekeri eliniz yardımıyla ovun.
+
+Daha sonra kasenin içerisine suyu ilave edin ve içerisine kabuğunu soyduğunuz limonların suyunu sıkın ardından şeker eriyene kadar karıştırın.
+
+Bir süzgeç yardımıyla kasedeki suyu süzün.
+
+Tarifimiz hazır bir bardağın içerisine bir miktar buz ile servis edebilirsiniz. Afiyet olsun.</string>
+    <string name="malzemeleryirmiüc">1-2 yemek kaşığı granül kahve
+\n2- 2 yemek kaşığı toz şeker
+\n3- 2 yemek kaşığı sıcak su
+\n4- 200 mililitre soğuk süt</string>
+    <string name="icecekdort">Bir kaseye granül kahveyi, şekeri ve sıcak suyu alın.Bir yumurta çırpıcısı ya da tel çırpıcı ile çırpmaya başlayın. Başta koyu renkte olacaktır.Yaklaşık 6 dakika çırptıktan sonra rengi açılacaktır. Çırpmaya devam edin
+15-16 dakika sonunda katı kıvama gelince çırpma işlemini sonlandırın.Bir bardağa birkaç parça buz koyun.Sütü buzların üzerine dökün. (Dilerseniz bu aşamada, sütün üzerine espresso da ekleyebilirsiniz.)En son üzerine hazırladığınız kahveli kremayı ekleyin.Dilediğiniz gibi servis edebilirsiniz. Afiyet olsun.</string>
+
+    <string name="malzemeleryirmidort">Hamburger ekmeği için:
+1- 1, 5 su bardağı ılık su
+\n3- 1 su bardağı ılık süt
+\n4- 125 gr erimiş tereyağ veya margarin
+\n5- Yarım paket yaş maya veya 1 yemek kaşığı kuru maya
+\n6- 2 tatlı kaşığı toz şeker
+\n7- 1 tatlı kaşığı tuz
+\n8- Alabildiğince un
+\nHamburger ekmeğinin üzeri için:
+
+\n1- Su veya süt
+\n2- Beyaz susam
+\nKöftesi için:
+
+\n1- 600 gr kıyma
+\n2- 1 tatlı kaşığı tuz
+\n3- 1 tatlı kaşığı karabiber
+\n4- 1 yemek kaşığı hardal
+\n5- 2 yemek kaşığı galeta unu
+\n-Hamburgerin içindeki diğer malzemeler:
+
+\n1- Marul
+\n2- Domates
+\n3- Soğan
+\n4- Kornison
+\n5- Cheddar peyniri
+\n6- Ketcap ve mayonez (İsteğe bağlı olarak)</string>
+    <string name="ettarifiüc">Öncelikle hamburgerin ekmeklerini hazırlayalım. hamurumuz cıvık bir hamur olmalı.
+Ele yapışan türden olmalı.
+Nasıl yuvarlak yapıcam derseniz, elinizi sıvı yağa batırarak kolayca yuvarlaklar yapacaksınız.
+Hamurumuzu yaparken öncelikle mayamızı eritelim.
+Kuru maya ise ılık su ile 10 dk kadar bekletelim.
+Yaş maya ise su ile eritelim.
+Daha sonra un hariç diğer malzemeleri ekleyelim.
+Unumuzu da yavas yavas ekleyelim.
+Ele yapışan bir hamur yapalım.
+Hamuru mayalanmaya bırakalım.
+Mayalanınca yuvarlaklar yapalım. Yaptığımız yuvarlakların üzerini bastıralım. Yassı yapalım.
+Daha sonra su yada süt sürelim.
+Susam dökelim.
+180 derecelik fırında hafif kızarıncaya kadar pişirelim.
+Fırından alalım.
+Soğuyunca 2’ye bölelim.
+Sonra da köftesi için kıyma, tuz, karabiber, hardal ve galeta ununu tum malzemeleri karıştıralım.
+Hafif yoğuralım.
+Ekmeklerimizin boyutundan hafif büyük köfteler yapalım. Çünkü pişince köfteler küçülüyor.
+Hamburgerimizin daha da güzel tadı olsun istiyorsak içerisine koyacağımız soğanları pişirdiğimiz köftenin yağı ile hafif karamelize edelim.
+Daha sonra bütün malzemeleri birleştirelim.
+Ekmeği 2 ye bölelim.
+En alta marulu, domatesi, soğanı, kornişonu yerleştirelim.
+İsteğe bağlı olarak ketcap, mayonez de ekleyebilirsiniz.
+Köfteleri üzerine koyalım.
+Varsa cheddar peynirini sıcak olan köftenin üzerine koyalım.
+Daha sonra ekmeği kapatalım. Hamburgemiz hazır. Yanına patates kızartması ve kola da ekleyelim. Afiyet olsun</string>
+    <string name="malzemeleryirmibes">
+        1- 6 adet tavuk kalça eti
+
+\n2- 1 adet büyük boy havuç
+
+\n3- 6-5 adet bebek patates
+
+\n4- 4 adet arpacık soğan
+
+\n5- 2 adet kırmızı biber
+
+\n6- 6 diş sarımsak, tuz</string>
+    <string name="sebzetarifiiki">
+Tavuk etlerini yıkayın. Yapışmaz yüzeyli tavaya derili kısımları alta gelecek şekilde yerleştirin. Aralarına halka doğranmış havuç, ikiye kesilmiş patates, arpacık soğan, irice doğranmış biber ve sarımsak yerleştirin. Üzerlerine tuz serpip tavanın kapağını kapatın. Kısık ateşte tavuk etleri kızarana kadar pişirin. Tavuk ve sebzeleri alt üst yapıp 5 dakika daha pişirin. Sıcak olarak servis yapın.</string>
+</resources>

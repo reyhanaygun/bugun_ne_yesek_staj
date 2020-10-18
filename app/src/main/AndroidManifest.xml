@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.stajim">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".tarif25"></activity>
+        <activity android:name=".acilisekrani">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".tarif24" />
+        <activity android:name=".evdekimalzemeler" />
+        <activity android:name=".bos" />
+        <activity android:name=".tarif23" />
+        <activity android:name=".tarif22" />
+        <activity android:name=".tarif21" />
+        <activity android:name=".tarif20" />
+        <activity android:name=".tarif19" />
+        <activity android:name=".tarificecek" />
+        <activity android:name=".tarif18" />
+        <activity android:name=".tarif17" />
+        <activity android:name=".tarif16" />
+        <activity android:name=".tarifkahvalti" />
+        <activity android:name=".tarif15" />
+        <activity android:name=".tarif14" />
+        <activity android:name=".tarif13" />
+        <activity android:name=".tarif12" />
+        <activity android:name=".tariftatli" />
+        <activity android:name=".tarif11" />
+        <activity android:name=".tarif10" />
+        <activity android:name=".tarif9" />
+        <activity android:name=".tarifsalata" />
+        <activity android:name=".tarifsebze" />
+        <activity android:name=".tarif8" />
+        <activity android:name=".tarif7" />
+        <activity android:name=".tarif6" />
+        <activity android:name=".tarif5" />
+        <activity android:name=".tarifbalik" />
+        <activity android:name=".tarif4" />
+        <activity android:name=".tariftavuk" />
+        <activity android:name=".tarif3" />
+        <activity android:name=".tarif2" />
+        <activity android:name=".tarif1" />
+        <activity android:name=".tarif" />
+        <activity android:name=".MainActivity"></activity>
+    </application>
+
+</manifest>

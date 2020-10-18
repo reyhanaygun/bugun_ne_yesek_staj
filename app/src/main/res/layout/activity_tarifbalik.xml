@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".tarifbalik"
+    android:orientation="vertical">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:paddingTop="20dp">
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="200dp"
+                android:layout_gravity="center"
+                android:paddingTop="10dp"
+                android:src="@drawable/somon"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="PESTO SOSLU SOMON"
+                android:textSize="20dp"
+                android:fontFamily="sans-serif-black"
+                android:layout_gravity="center"
+                android:paddingTop="10dp"
+                android:textColor="@color/siyah"
+                />
+            <Button
+                android:layout_gravity="center"
+                android:id="@+id/button_alti"
+                android:layout_width="200dp"
+                android:layout_height="80dp"
+                android:textStyle="bold"
+                android:text="TARİF İÇİN TIKLAYIN"
+                android:background="@drawable/buttonsekil"
+                android:layout_marginTop="10dp"
+                />
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="200dp"
+                android:layout_gravity="center"
+                android:paddingTop="10dp"
+                android:src="@drawable/firindabalik"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="FIRINDA BALIK"
+                android:textSize="20dp"
+                android:fontFamily="sans-serif-black"
+                android:layout_gravity="center"
+                android:paddingTop="10dp"
+                android:textColor="@color/siyah"
+                />
+            <Button
+                android:layout_gravity="center"
+                android:id="@+id/button_yedi"
+                android:layout_width="200dp"
+                android:layout_height="80dp"
+                android:textStyle="bold"
+                android:text="TARİF İÇİN TIKLAYIN"
+                android:background="@drawable/buttonsekil"
+                android:layout_marginTop="10dp"
+                />
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="200dp"
+                android:layout_gravity="center"
+                android:paddingTop="10dp"
+                android:src="@drawable/balikkroket"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="BALIK KROKET"
+                android:textSize="20dp"
+                android:fontFamily="sans-serif-black"
+                android:layout_gravity="center"
+                android:paddingTop="10dp"
+                android:textColor="@color/siyah"
+                />
+            <Button
+
+                android:layout_gravity="center"
+                android:id="@+id/button_sekiz"
+                android:layout_width="200dp"
+                android:layout_height="80dp"
+                android:textStyle="bold"
+                android:text="TARİF İÇİN TIKLAYIN"
+                android:background="@drawable/buttonsekil"
+                android:layout_marginTop="10dp"
+                />
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+</LinearLayout>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".tariftatli"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:paddingTop="20dp">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="200dp"
+                android:layout_gravity="center"
+                android:paddingTop="10dp"
+                android:src="@drawable/donut" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:fontFamily="sans-serif-black"
+                android:paddingTop="10dp"
+                android:text="DONUT"
+                android:textColor="@color/siyah"
+                android:textSize="20dp" />
+
+            <Button
+                android:id="@+id/button_onuc"
+                android:layout_width="200dp"
+                android:layout_height="80dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/buttonsekil"
+                android:text="TARİF İÇİN TIKLAYIN"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="200dp"
+                android:layout_gravity="center"
+                android:paddingTop="10dp"
+                android:src="@drawable/cheesecake" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:fontFamily="sans-serif-black"
+                android:paddingTop="10dp"
+                android:text="FRAMBUAZLI CHEESECAKE"
+                android:textColor="@color/siyah"
+                android:textSize="20dp" />
+
+            <Button
+                android:id="@+id/button_ondort"
+                android:layout_width="200dp"
+                android:layout_height="80dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/buttonsekil"
+                android:text="TARİF İÇİN TIKLAYIN"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="200dp"
+                android:layout_gravity="center"
+                android:paddingTop="10dp"
+                android:src="@drawable/sansebastian" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:fontFamily="sans-serif-black"
+                android:paddingTop="10dp"
+                android:text="SAN SEBASTIAN CHEESECAKE"
+                android:textColor="@color/siyah"
+                android:textSize="20dp" />
+
+            <Button
+                android:id="@+id/button_onbes"
+                android:layout_width="200dp"
+                android:layout_height="80dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/buttonsekil"
+                android:text="TARİF İÇİN TIKLAYIN"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="200dp"
+                android:layout_gravity="center"
+                android:paddingTop="10dp"
+                android:src="@drawable/sufle" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:fontFamily="sans-serif-black"
+                android:paddingTop="10dp"
+                android:text="ÇİKOLATALI SUFLE"
+                android:textColor="@color/siyah"
+                android:textSize="20dp" />
+
+            <Button
+                android:id="@+id/button_onalti"
+                android:layout_width="200dp"
+                android:layout_height="80dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/buttonsekil"
+                android:text="TARİF İÇİN TIKLAYIN"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>
